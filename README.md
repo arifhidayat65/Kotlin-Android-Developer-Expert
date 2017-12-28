@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kotlin-Android-Developer-Expert
 Repositori ini berisi semua project yang ada di [Kotlin Android Developer Expert][kotlin-android-developer-expert]. Untuk beralih ke project yang lain, Anda bisa memilih project pada menu `branch`.
 
@@ -8,3 +9,7 @@ Peserta akan mempelajari tentang dasar-dasar bahasa pemrograman Kotlin, penerapa
 Silahkan daftar di [dicoding.id/a/55][kotlin-android-developer-expert].
 
 [kotlin-android-developer-expert]: https://www.dicoding.com/academies/55/
+=======
+# Kotlin-Academy
+Repositori ini berisi semua latihan yang ada di Dicoding Kotlin Academy
+>>>>>>> 39ff965... Initial commit
